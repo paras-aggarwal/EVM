@@ -7,7 +7,7 @@ EVM is an Electronic Voting Machine. It is a Desktop Application built using Vis
 | Name | Description |
 | ------ | ------ |
 | Visual Basic | Frontend/Backend |
-| SQl | database |
+| SQL | database |
 
 ### Clone Repository
 
